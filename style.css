@@ -1,0 +1,15 @@
+body {
+    background-color: cornsilk;
+    font-family: serif;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+a {
+    padding: 10px;
+}
